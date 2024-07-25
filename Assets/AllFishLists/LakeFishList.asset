@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 501d624f09cba234bb6a68475caeed31, type: 3}
+  m_Name: LakeFishList
+  m_EditorClassIdentifier: 
+  fishDataArray:
+  - {fileID: 11400000, guid: 75f3d1a5142ac184b8887113aab0b713, type: 2}
+  - {fileID: 11400000, guid: 156297f43c660104a92eae04ddb182cb, type: 2}
+  - {fileID: 11400000, guid: 042291735d352a64abdb8dcc24248f39, type: 2}
+  - {fileID: 11400000, guid: a26f491110ffaaf4f9cd86eb060760b6, type: 2}
+  - {fileID: 11400000, guid: 75f3d1a5142ac184b8887113aab0b713, type: 2}
+  - {fileID: 11400000, guid: 75f3d1a5142ac184b8887113aab0b713, type: 2}
