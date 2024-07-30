@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\pgag3\\Lidl Fighter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3699C7D2-DEC7-D8F3-C7D8-1A16CB681C3E}|Assembly-CSharp.csproj|c:\\users\\pgag3\\lidl fighter\\assets\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3699C7D2-DEC7-D8F3-C7D8-1A16CB681C3E}|Assembly-CSharp.csproj|solutionrelative:assets\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3699C7D2-DEC7-D8F3-C7D8-1A16CB681C3E}|Assembly-CSharp.csproj|c:\\users\\pgag3\\lidl fighter\\assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3699C7D2-DEC7-D8F3-C7D8-1A16CB681C3E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3699C7D2-DEC7-D8F3-C7D8-1A16CB681C3E}|Assembly-CSharp.csproj|c:\\users\\pgag3\\lidl fighter\\assets\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3699C7D2-DEC7-D8F3-C7D8-1A16CB681C3E}|Assembly-CSharp.csproj|solutionrelative:assets\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3699C7D2-DEC7-D8F3-C7D8-1A16CB681C3E}|Assembly-CSharp.csproj|C:\\Users\\pgag3\\Lidl Fighter\\Assets\\Scripts\\CameraFollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3699C7D2-DEC7-D8F3-C7D8-1A16CB681C3E}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\CameraFollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3699C7D2-DEC7-D8F3-C7D8-1A16CB681C3E}|Assembly-CSharp.csproj|C:\\Users\\pgag3\\Lidl Fighter\\Assets\\Scripts\\FishDataList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3699C7D2-DEC7-D8F3-C7D8-1A16CB681C3E}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\FishDataList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3699C7D2-DEC7-D8F3-C7D8-1A16CB681C3E}|Assembly-CSharp.csproj|C:\\Users\\pgag3\\Lidl Fighter\\Assets\\Scripts\\FishData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3699C7D2-DEC7-D8F3-C7D8-1A16CB681C3E}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\FishData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FishDataList.cs",
+              "DocumentMoniker": "C:\\Users\\pgag3\\Lidl Fighter\\Assets\\Scripts\\FishDataList.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FishDataList.cs",
+              "ToolTip": "C:\\Users\\pgag3\\Lidl Fighter\\Assets\\Scripts\\FishDataList.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FishDataList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T23:01:30.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FishData.cs",
+              "DocumentMoniker": "C:\\Users\\pgag3\\Lidl Fighter\\Assets\\Scripts\\FishData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FishData.cs",
+              "ToolTip": "C:\\Users\\pgag3\\Lidl Fighter\\Assets\\Scripts\\FishData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FishData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T23:01:28.924Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CameraFollow.cs",
-              "DocumentMoniker": "C:\\Users\\pgag3\\Lidl Fighter\\Assets\\CameraFollow.cs",
-              "RelativeDocumentMoniker": "Assets\\CameraFollow.cs",
-              "ToolTip": "C:\\Users\\pgag3\\Lidl Fighter\\Assets\\CameraFollow.cs",
-              "RelativeToolTip": "Assets\\CameraFollow.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\pgag3\\Lidl Fighter\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
+              "ToolTip": "C:\\Users\\pgag3\\Lidl Fighter\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T21:39:19.438Z",
+              "WhenOpened": "2024-07-29T22:45:01.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Movement.cs",
-              "DocumentMoniker": "C:\\Users\\pgag3\\Lidl Fighter\\Assets\\Movement.cs",
-              "RelativeDocumentMoniker": "Assets\\Movement.cs",
-              "ToolTip": "C:\\Users\\pgag3\\Lidl Fighter\\Assets\\Movement.cs",
-              "RelativeToolTip": "Assets\\Movement.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwCwAAAAJAAAA",
+              "DocumentMoniker": "C:\\Users\\pgag3\\Lidl Fighter\\Assets\\Scripts\\Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Movement.cs",
+              "ToolTip": "C:\\Users\\pgag3\\Lidl Fighter\\Assets\\Scripts\\Movement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Movement.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAIwEQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T00:29:41.013Z",
+              "WhenOpened": "2024-07-29T22:43:18.293Z",
               "EditorCaption": ""
             }
           ]
